@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuMuuu&theme=dracula)
 
-[resume](https://www.resume.id/curelemonade)
+more: [resume](https://www.resume.id/curelemonade)
 
-### More
 
-🚧工事中🚧
