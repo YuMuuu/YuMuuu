@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuMuuu&theme=dracula)
 
+↑おそらくXSLTは昔々作ったリポジトリに大量に含まれてる。SXLT職人では決してない
+
 more: [resume](https://www.resume.id/curelemonade)
 
 
